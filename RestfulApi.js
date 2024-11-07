@@ -11,8 +11,8 @@ app.use("/api/v1/users",userRoutes);
 
 
 
-const port = process.env.PORT || 5000; // get the port from the environment variables or use 5000
-console.log(port);
+// const port = process.env.PORT || 5000; // get the port from the environment variables or use 5000
+// console.log(port);
 
 
 app.listen(port, () => {
