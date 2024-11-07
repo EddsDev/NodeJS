@@ -1,0 +1,16 @@
+{
+    "name": "My App",
+    "version": "1.0.0",
+    "mail": {
+        "host": "mail_prod_host",
+        "port": 2525,
+        "auth": {
+            "user": "your-user",
+            "pass": "your-pass"
+        }
+    },
+
+    "password": "PASSWORD"
+    
+
+}
